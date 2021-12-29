@@ -1,0 +1,48 @@
+.menu {
+  /* add correct code to place the menu correctly.*/
+
+  background-color: #fc5cb4;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color:  #00FFD3;
+}
+body {
+  background-color: #00FFD3;
+}
+.grid {
+  /* add correct code to place the grid elements 
+  one beside the other equally.   */
+
+  flex-wrap: wrap;
+  font-family: sans-serif;
+}
+
+.grid img {
+  border: 2px solid #adadad;
+  border-radius: 50px; 
+}
+.html{
+  background-color :#5cfc5c
+}
+.css{
+  background-color :#D4FF00
+}
+.js{
+  background-color:#D895F3 ;
+}
+.php{
+  background-color: #FFC0CB;
+}
+.python {
+  background-color: #B3FF1A;
+}
+.rn{
+  background-color: #33CCFF
+}
+.bs{
+  background-color : #FFFF00
+}
+.p5{
+  background-color :#D895F3
+}
